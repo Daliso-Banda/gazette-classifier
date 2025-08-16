@@ -13,3 +13,10 @@
 ##  General Objectives  
 
 Our project is to build a machine learning system that takes Gazette entries and gives the domain to which the document belongs.
+
+##Business Objectives
+1. Improve efficiency- reduce errors in categorising government Gazettes experienced when done manually.
+
+2. Improve Government Gazette accessibility by making it easier to locate specific Gazettes.
+
+3.Improve analysis of publication trends to better track government activities.
