@@ -9,8 +9,14 @@
 ### Problem Statement:
 
 The Government publishes official notices; these notices span multiple domains , such as legislation, appointments, notices, tenders, and regulations.When published these documents are not placed in categories. Classifying them could be time-consuming when done manually . Our goal here is to create a system that classifies these documents according to the domain they belong to.the system model is aimed at correctly predicting the domain.
+## Business Objectives
+1. Improve efficiency- reduce errors in categorising government Gazettes experienced when done manually.
 
-##Data Mininig Goals
+2. Improve Government Gazette accessibility by making it easier to locate specific Gazettes.
+
+3. Improve analysis of publication trends to better track government activities.
+
+##  Data Mininig Goals
 To achieve our business objectives, we will focus on the following data mining goals:
 
 1 Build a Supervised Classification Model: We will develop a model that can automatically assign each Gazette entry to one of several predefined categories such as legislation, appointments, tenders, notices and regulations
