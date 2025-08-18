@@ -25,5 +25,5 @@ To achieve our business objectives, we will focus on the following data mining g
 
 INITIAL PROJECT SUCCESS CRITERIA
   We will consider the project a success if it meets the following criteria:
-  Model Performance: The classification model must achieve a minimum of 80% accuracy.
+  Model Performance: The classification model must achieve a minimum of 80% accuracy
   Balanced Performance: The model must demonstrate balanced precision and recall across all of the predefined categories.
